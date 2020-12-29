@@ -1,6 +1,6 @@
 first_number = 5
 
-select_second
+second_number = 7
 
 
 
